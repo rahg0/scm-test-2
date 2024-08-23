@@ -1,0 +1,47 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    actionpack (7.1.4)
+      actionview (= 7.1.4)
+      activesupport (= 7.1.4)
+      rack (~> 2.0, >= 2.2.4)
+      rack-test (>= 1.1.0)
+      rails-dom-testing (~> 2.0)
+      rails-html-sanitizer (~> 1.5)
+    actionview (7.1.4)
+      activesupport (= 7.1.4)
+      builder (~> 3.1)
+      erubi (~> 1.4)
+      rails-dom-testing (~> 2.0)
+      rails-html-sanitizer (~> 1.5)
+    activesupport (7.1.4)
+      concurrent-ruby (~> 1.1)
+      i18n (>= 1.8, < 2)
+      minitest (~> 5.15)
+      tzinfo (~> 2.0)
+    builder (3.2.4)
+    concurrent-ruby (1.1.10)
+    erubi (1.11.0)
+    i18n (1.12.0)
+      concurrent-ruby (~> 1.1)
+    minitest (5.15.0)
+    rack (2.2.6.3)
+    rack-test (1.1.0)
+      rack (>= 2.0, < 3)
+    rails-dom-testing (2.0.3)
+      activesupport (>= 5.0.0)
+      nokogiri (>= 1.11)
+    rails-html-sanitizer (1.5.0)
+      loofah (~> 2.19)
+    loofah (2.20.0)
+      crass (~> 1.0.6)
+      nokogiri (>= 1.12)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  actionpack (= 7.1.4)
+
+BUNDLED WITH
+   2.4.5
